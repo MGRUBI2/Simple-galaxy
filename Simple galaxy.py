@@ -30,7 +30,7 @@ while running:
             poz.append(pos_tup[1])
             delay=fun2.spawn(solar_sys,poz,delay)
             member=-1
-        # if keys[pygame.K_w]: za sad sjebano!
+        # if keys[pygame.K_w]:
         #     solar_sys[member].speed[0]+=1*math.cos(solar_sys[member].rot*(math.pi/180))
         #     solar_sys[member].speed[1]+=1*math.sin(solar_sys[member].rot*(math.pi/180))
         # if keys[pygame.K_s]:
